@@ -1,2 +1,2 @@
 # jetbrains-academy
-My solutions of problems from JetBrains Academy 
+Solutions of problems from JetBrains Academy 
