@@ -17,7 +17,6 @@ public static int searchInSubArray(int[] numbers, int startIndex, int endIndex, 
 Stream
 ```
 public static int searchInSubArray(int[] numbers, int startIndex, int endIndex, int value) {
-    // write your code here
     return IntStream.range(startIndex, endIndex)
             .filter(i -> value == numbers[i])
             .findFirst()
