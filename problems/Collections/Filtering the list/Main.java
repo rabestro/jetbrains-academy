@@ -7,7 +7,7 @@ class Main {
         final var scanner = new Scanner(System.in);
         final var list = new ArrayList<String>();
 
-        for (var isOdd = false; scanner.hasNext(); isOdd ^= true) {
+        for (boolean isOdd = false; scanner.hasNext(); isOdd ^= true) {
             final var number = scanner.next();
             if (isOdd) {
                 list.add(number);
