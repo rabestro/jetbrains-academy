@@ -9,20 +9,19 @@ The program should work correctly for the years 1900 ≤ n ≤ 3000.
 Output "Leap" (case-sensitive) if the given year is a leap year, and "Regular" otherwise.
 
 It is enough to write a simple conditional statement to solve this task.
-Report a typo
 
-## Sample Input 1:
+### Sample Input 1:
 
 2100
 
-## Sample Output 1:
+### Sample Output 1:
 
 Regular
 
-## Sample Input 2:
+### Sample Input 2:
 
 2000
 
-## Sample Output 2:
+### Sample Output 2:
 
 Leap
